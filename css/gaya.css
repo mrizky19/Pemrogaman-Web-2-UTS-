@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,700&family=Montserrat:wght@200;300;500&display=swap");
+
+body {
+  overflow: hidden;
+}
+
+.logo {
+  margin-left: 70px;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+span {
+  font-family: "Josefin Sans", sans-serif;
+  color: #2a6343;
+}
+
+.itemnav {
+  margin-right: 70px;
+}
+
+main {
+  width: 15%;
+  height: 500px;
+  float: left;
+  padding: 20px;
+  background-color: #ffffff;
+}
+
+a {
+  font-weight: bold;
+}
+
+aside {
+  width: 85%;
+  height: 400px;
+  float: right;
+  padding: 20px;
+}
+
+.datamhs {
+  border-radius: 10px;
+  background-color: #f1efef;
+  overflow-x: hidden;
+  width: 100%;
+  height: 470px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th {
+  background-color: #03fdfd;
+}
+
+th,
+td {
+  border: 1px solid #272727; /* Atur properti border sesuai kebutuhan */
+  padding: 8px;
+}
+
+#thead {
+  text-align: center;
+}
